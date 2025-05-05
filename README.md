@@ -22,7 +22,7 @@ https://cool-centaur-624811.netlify.app/
   
 **by embedding this lightweight parser as the first step into a larger workflow automation software, you gain speed and cost‑efficiency, creating a best‑of‑both‑worlds pipeline: instant, rule‑based parsing up front, and ai‑driven analysis where it matters most.**
 
-note that the limitation here is that it won’t scale for bulk document processing. if you need to process hundreds of docs in parallel or work with large-scale datasets, this solution wouldn’t fit that use case. it’s meant for individual cases or smaller-scale operations—like checking a couple of contracts or policies quickly.
+note that the limitation here is that it won’t scale for bulk document processing. if you need to process hundreds of docs in parallel or work with large-scale datasets, this solution wouldn’t fit that use case. it’s meant for individual cases or smaller-scale operations - like checking a couple of contracts or policies quickly.
 
 ## How?
 
