@@ -1,6 +1,6 @@
 <div align="center">
 
-  <b>Doc Parser</b>
+  <b>Doc Parser 🔎</b>
 ----------------------
 a lightweight web app that parses legal documents and extracts key clauses to generate concise summaries
 
