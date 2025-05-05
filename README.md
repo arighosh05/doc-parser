@@ -30,7 +30,7 @@ note that the limitation here is that it won’t scale for bulk document process
 - click `View Report`
 - report will be identical to `output.txt`
 - instant, zero‑cost document processing + summarization
-- lower word count + higher information density prior to LLM call
+- lower word count + higher information density prior to LLM calls
   
   
 
