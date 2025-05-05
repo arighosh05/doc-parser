@@ -1,0 +1,43 @@
+This agreement ("Agreement") is made and entered into as of the 1st day of June 2025, by and between Alpha Solutions LLC, a limited liability company organized under the laws of the State of New York, with its principal office located at 123 Tech Avenue, New York, NY ("Alpha"), and Beta Industries Inc., a corporation organized under the laws of the State of California, with its principal office located at 456 Innovation Drive, San Francisco, CA ("Beta").
+
+1. **Obligations of Alpha**
+   Alpha shall deliver the software and associated documentation to Beta within thirty (30) days from the effective date of this Agreement. The software must be fully functional and compliant with the specifications outlined in Exhibit A of this Agreement.
+
+2. **Obligations of Beta**
+   Beta shall pay Alpha the total amount of $500,000 USD upon the successful delivery and installation of the software. Payments shall be made via wire transfer to a bank account designated by Alpha.
+
+3. **Termination Clause**
+   Either party may terminate this Agreement for convenience by providing thirty (30) days' written notice to the other party. Termination shall be without penalty, except for any outstanding payments owed at the time of termination.
+
+4. **Indemnification**
+   Both parties agree to indemnify, defend, and hold harmless the other party from and against any and all claims, damages, liabilities, and expenses (including legal fees) arising from any breach of this Agreement, negligence, or misconduct in the performance of their respective obligations.
+
+5. **Confidentiality**
+   Both parties acknowledge that, during the course of this Agreement, they may exchange confidential and proprietary information. Each party agrees to keep such information confidential and not to disclose it to any third party without the prior written consent of the disclosing party.
+
+6. **Jurisdiction**
+   This Agreement shall be governed by and construed in accordance with the laws of the State of New York. Any disputes arising from or related to this Agreement shall be subject to the exclusive jurisdiction of the courts in New York County, New York.
+
+7. **Force Majeure**
+   Neither party shall be held liable for any failure or delay in performance of its obligations under this Agreement due to causes beyond its reasonable control, including, but not limited to, natural disasters, war, strikes, or government regulations.
+
+8. **Amendment**
+   This Agreement may be amended only by a written agreement signed by authorized representatives of both parties. Any such amendment shall become effective on the date specified in the amendment.
+
+9. **Intellectual Property**
+   All intellectual property rights, including copyrights, patents, and trademarks, related to the software developed under this Agreement shall remain the exclusive property of Alpha. Beta shall have a non-exclusive, non-transferable license to use the software for the term of this Agreement.
+
+10. **Limitation of Liability**
+    In no event shall either party be liable for any indirect, incidental, or consequential damages, including but not limited to lost profits, arising out of or in connection with this Agreement, even if the party has been advised of the possibility of such damages.
+
+11. **Dispute Resolution**
+    Any dispute, controversy, or claim arising out of or in connection with this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall take place in New York, New York.
+
+12. **Exclusivity**
+    During the term of this Agreement, Beta agrees not to enter into any agreements with competitors of Alpha for the provision of similar software solutions.
+
+13. **Time-Related Clauses**
+    The duration of the software license granted hereunder shall be for a period of five (5) years, starting from the effective date of this Agreement. The parties acknowledge that the Agreement may be renewed upon mutual consent at least 90 days before the expiration of the term.
+
+14. **Miscellaneous**
+    This Agreement constitutes the entire understanding between the parties with respect to the subject matter hereof. It supersedes all prior negotiations, representations, and agreements, whether written or oral, relating to the subject matter of this Agreement.

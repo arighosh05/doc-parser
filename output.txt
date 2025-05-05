@@ -1,0 +1,25 @@
+Summary
+
+The agreement is made between Alpha Solutions LLC, a limited liability company organized under the laws of the State of New York, with its principal office located at 123 Tech Avenue, New York, NY ("Alpha"), and Beta Industries Inc.
+
+Key obligations include: shall deliver the software and associated documentation to Beta within thirty (30) days from the effective date of this Agreement. shall pay Alpha the total amount of $500,000 USD upon the successful delivery and installation of the software. shall be made via wire transfer to a bank account designated by Alpha.
+
+Payment terms mention: Payments shall be made via wire transfer to a bank account designated by Alpha.
+
+Termination clause includes: Termination shall be without penalty, except for any outstanding payments owed at the time of termination.
+
+Indemnity is addressed: indemnify, defend, and hold harmless the other party from and against any and all claims, damages, liabilities, and expenses (including legal fees) arising from any breach of this Agreement, negligence, or misconduct in the performance of their respective obligations.
+
+Confidentiality clause detected: confidential and proprietary information.
+
+Jurisdiction specified: governed by and construed in accordance with the laws of the State of New York.
+
+Amendment provisions: amended only by a written agreement signed by authorized representatives of both parties.
+
+IP ownership terms: intellectual property rights, including copyrights, patents, and trademarks, related to the software developed under this Agreement shall remain the exclusive property of Alpha.
+
+Dispute resolution policy: arbitration in accordance with the rules of the American Arbitration Association.
+
+Exclusivity clause mentioned: exclusive jurisdiction of the courts in New York County, New York.
+
+Time-related clauses reference: 90 days
